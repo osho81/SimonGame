@@ -10,3 +10,6 @@ This was an assignment in the programme "The Complete 2021 Web Development Bootc
 
 ## Motivation
 Primarily to improve JS skills. 
+
+## Used tech
+HTML/CSS & JavaScript.
