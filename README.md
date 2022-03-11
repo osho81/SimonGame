@@ -1,18 +1,18 @@
-# SimonGame
+## SimonGame
 
-## Description
+### Description
 A classic memory skills game. 
 
 Read about game rules at: https://en.wikipedia.org/wiki/Simon_(game) 
 
-## Purpose
+### Purpose
 This was an assignment in the programme "The Complete 2021 Web Development Bootcamp", given by App Brewery, Angela Yu (via Udemy.com).
 
-## Motivation
+### Motivation
 Primarily to improve JS skills. 
 
-## Used tech
+### Used tech
 HTML/CSS & JavaScript.
 
-### Note
+#### Note
 See my improved version [here](https://github.com/osho81/simon_game_with_levels).
